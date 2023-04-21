@@ -2117,3 +2117,4 @@ Top XSS reports from HackerOne:
 2115. [[flsaba] Stored XSS in the file and directory name when directories listing](https://hackerone.com/reports/856588) to Node.js third-party modules - 0 upvotes, $0
 2116. [[tianma-static] Security issue with XSS.](https://hackerone.com/reports/606526) to Node.js third-party modules - 0 upvotes, $0
 2117. [XSS due to CVE-2020-3580 [███.mil]](https://hackerone.com/reports/1277383) to U.S. Dept Of Defense - 0 upvotes, $0
+2118. [RichText parser vulnerability in scheduled posts allows XSS](https://hackerone.com/reports/1930763) to Reddit - 13 upvotes, $5000
